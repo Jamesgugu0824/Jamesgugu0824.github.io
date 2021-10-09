@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于hexo douban爬不到数据的问题</title>
+    <url>/2021/10/09/article-title/</url>
+    <content><![CDATA[<h3 id="问题：hexo-douban"><a href="#问题：hexo-douban" class="headerlink" title="问题：hexo douban"></a>问题：hexo douban</h3><p>hexo douban 运行结束之后，结果如下：</p>
+<p><img src="article-title.assets/1633774021348.png" alt="1633774021348"></p>
+<h3 id="原因：-当前使用的node版本太高了，降低node版本即可"><a href="#原因：-当前使用的node版本太高了，降低node版本即可" class="headerlink" title="原因： 当前使用的node版本太高了，降低node版本即可"></a>原因： 当前使用的node版本太高了，降低node版本即可</h3><h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p>首先卸载目前这个版本的node， 然后重新去<a href="https://nodejs.org/en/download/">官网</a>，找到<a href="https://nodejs.org/dist/latest-v12.x/">版本12下载</a>即可，我之前是14.16  下载12.22.6</p>
+<p>下载的时候选择msi，下载完直接安装就可以用。</p>
+<img src="article-title.assets/1633775472152.png" alt="1633775472152" style="zoom:50%;" />
+
+<p><strong>注意：安装时最好在你原来nodejs的安装目录，这样环境变量也不用重新配了</strong> </p>
+<p> 然后执行hexo clean  再 hexo douban   </p>
+<p>然后 hexo generate  再 hexo server  就完成了！</p>
+<p><img src="article-title.assets/1633775739276.png" alt="1633775739276"></p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/10/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -17,10 +35,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>article title_hello hexo</title>
-    <url>/2021/10/09/article-title/</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
