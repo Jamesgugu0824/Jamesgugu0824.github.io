@@ -31,6 +31,11 @@
 <p> 然后执行hexo clean  再 hexo douban   </p>
 <p>然后 hexo generate  再 hexo server  就完成了！</p>
 <p><img src="/images/1633775739276.png"></p>
+<blockquote>
+<h5 id="Hexo中图片不显示的解决方案："><a href="#Hexo中图片不显示的解决方案：" class="headerlink" title="Hexo中图片不显示的解决方案："></a>Hexo中图片不显示的解决方案：</h5><p><img src="/images/hexodouban/1633785852746.png" alt="1633785852746"></p>
+<p><a href="https://blog.csdn.net/weixin_45342841/article/details/105620322">解决Typora图片显示不出来问题</a></p>
+<p><a href="https://www.cnblogs.com/yinyoupoet/p/13287385.html">typora + hexo博客中插入图片</a></p>
+</blockquote>
 ]]></content>
       <tags>
         <tag>hexo</tag>
