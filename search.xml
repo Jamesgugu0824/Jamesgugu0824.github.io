@@ -13,6 +13,29 @@
 ]]></content>
   </entry>
   <entry>
+    <title>关于hexo douban爬不到数据的问题</title>
+    <url>/2021/10/09/hexodouban/</url>
+    <content><![CDATA[<h3 id="问题：hexo-douban"><a href="#问题：hexo-douban" class="headerlink" title="问题：hexo douban"></a>问题：hexo douban</h3><p>hexo douban 运行结束之后，结果如下：</p>
+<p><img src="images/1633774021348.png"></p>
+<h3 id="原因："><a href="#原因：" class="headerlink" title="原因："></a>原因：</h3><p>当前使用的node版本太高了，降低node版本即可 </p>
+<h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p>首先卸载目前这个版本的node， 然后重新去<a href="https://nodejs.org/en/download/">官网</a>，找到<a href="https://nodejs.org/dist/latest-v12.x/">版本12下载</a>即可，我之前是14.16  下载12.22.6</p>
+<p>下载的时候选择msi，下载完直接安装就可以用。</p>
+<p><img src="/images/1633775472152.png" alt="1633775472152"></p>
+<p><strong>注意：安装时最好在你原来nodejs的安装目录，这样环境变量也不用重新配了</strong> </p>
+<p> 然后执行hexo clean  再 hexo douban   </p>
+<p>然后 hexo generate  再 hexo server  就完成了！</p>
+<p><img src="/images/1633775739276.png"></p>
+<blockquote>
+<h5 id="Hexo中图片不显示的解决方案："><a href="#Hexo中图片不显示的解决方案：" class="headerlink" title="Hexo中图片不显示的解决方案："></a>Hexo中图片不显示的解决方案：</h5><p><img src="/images/hexodouban/1633785852746.png" alt="1633785852746"></p>
+<p><a href="https://blog.csdn.net/weixin_45342841/article/details/105620322">解决Typora图片显示不出来问题</a></p>
+<p><a href="https://www.cnblogs.com/yinyoupoet/p/13287385.html">typora + hexo博客中插入图片</a></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>love_nuo</title>
     <url>/2021/10/09/nono/</url>
     <content><![CDATA[<p>​                                                            <strong>陈杰 ❤诺诺</strong> </p>
@@ -35,28 +58,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>关于hexo douban爬不到数据的问题</title>
-    <url>/2021/10/09/hexodouban/</url>
-    <content><![CDATA[<h3 id="问题：hexo-douban"><a href="#问题：hexo-douban" class="headerlink" title="问题：hexo douban"></a>问题：hexo douban</h3><p>hexo douban 运行结束之后，结果如下：</p>
-<p><img src="images/1633774021348.png"></p>
-<h3 id="原因："><a href="#原因：" class="headerlink" title="原因："></a>原因：</h3><p>当前使用的node版本太高了，降低node版本即可 </p>
-<h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p>首先卸载目前这个版本的node， 然后重新去<a href="https://nodejs.org/en/download/">官网</a>，找到<a href="https://nodejs.org/dist/latest-v12.x/">版本12下载</a>即可，我之前是14.16  下载12.22.6</p>
-<p>下载的时候选择msi，下载完直接安装就可以用。</p>
-<p><img src="/images/1633775472152.png" alt="1633775472152"></p>
-<p><strong>注意：安装时最好在你原来nodejs的安装目录，这样环境变量也不用重新配了</strong> </p>
-<p> 然后执行hexo clean  再 hexo douban   </p>
-<p>然后 hexo generate  再 hexo server  就完成了！</p>
-<p><img src="/images/1633775739276.png"></p>
-<blockquote>
-<h5 id="Hexo中图片不显示的解决方案："><a href="#Hexo中图片不显示的解决方案：" class="headerlink" title="Hexo中图片不显示的解决方案："></a>Hexo中图片不显示的解决方案：</h5><p><img src="/images/hexodouban/1633785852746.png" alt="1633785852746"></p>
-<p><a href="https://blog.csdn.net/weixin_45342841/article/details/105620322">解决Typora图片显示不出来问题</a></p>
-<p><a href="https://www.cnblogs.com/yinyoupoet/p/13287385.html">typora + hexo博客中插入图片</a></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
   </entry>
 </search>
