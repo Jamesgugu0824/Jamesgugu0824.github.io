@@ -6,17 +6,27 @@
     <content><![CDATA[<h2 id="一些非常有趣的网站"><a href="#一些非常有趣的网站" class="headerlink" title="一些非常有趣的网站"></a>一些非常有趣的网站</h2><p><a href="https://cybermap.kaspersky.com/"><strong>卡巴斯基网络实时地图</strong></a></p>
 <p><a href="https://toonme.com/"><strong>卡通头像生成器</strong></a></p>
 <p><a href="https://sharkle.com/"><strong>“开盲盒”</strong></a></p>
+ <span id="more"></span> 
+
 <p><a href="https://www.meteorshowers.org/"> <strong>流星雨</strong> </a></p>
 <p><a href="https://www.qmsjmfb.com/"><strong>免费在线起名</strong></a></p>
 <p><a href="https://patatap.com/"><strong>patatap</strong></a></p>
 <p><a href="https://chp.shadiao.app/"><strong>彩虹屁生成器</strong></a></p>
 ]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>Funny Web</tag>
+      </tags>
   </entry>
   <entry>
     <title>关于hexo douban爬不到数据的问题</title>
     <url>/2021/10/09/hexodouban/</url>
-    <content><![CDATA[<h3 id="问题：hexo-douban"><a href="#问题：hexo-douban" class="headerlink" title="问题：hexo douban"></a>问题：hexo douban</h3><p>hexo douban 运行结束之后，结果如下：</p>
-<p><img src="images/1633774021348.png"></p>
+    <content><![CDATA[<h3 id="问题：hexo-douban爬不到数据的问题"><a href="#问题：hexo-douban爬不到数据的问题" class="headerlink" title="问题：hexo douban爬不到数据的问题"></a>问题：hexo douban爬不到数据的问题</h3><p>hexo douban 运行结束之后，结果如下：</p>
+<p><img src="/images/1633774021348.png" alt="1633774021348"></p>
+ <span id="more"></span> 
+
 <h3 id="原因："><a href="#原因：" class="headerlink" title="原因："></a>原因：</h3><p>当前使用的node版本太高了，降低node版本即可 </p>
 <h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p>首先卸载目前这个版本的node， 然后重新去<a href="https://nodejs.org/en/download/">官网</a>，找到<a href="https://nodejs.org/dist/latest-v12.x/">版本12下载</a>即可，我之前是14.16  下载12.22.6</p>
 <p>下载的时候选择msi，下载完直接安装就可以用。</p>
@@ -36,15 +46,23 @@
       </tags>
   </entry>
   <entry>
-    <title>love_nuo</title>
+    <title>nuooun</title>
     <url>/2021/10/09/nono/</url>
-    <content><![CDATA[<p>​                                                            <strong>陈杰 ❤诺诺</strong> </p>
+    <content><![CDATA[<p>​                                                            <strong>诺诺</strong> </p>
 ]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>nuooun</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
     <url>/2021/10/09/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+ <span id="more"></span> 
+
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
