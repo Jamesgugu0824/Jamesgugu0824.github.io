@@ -27,15 +27,29 @@
       </tags>
   </entry>
   <entry>
-    <title>nuooun</title>
+    <title>计算机组成原理（1）</title>
     <url>/nono.html</url>
-    <content><![CDATA[<p>​                                                                <strong>诺诺</strong>                                </p>
+    <content><![CDATA[<h3 id="计算机各个硬件"><a href="#计算机各个硬件" class="headerlink" title="计算机各个硬件"></a>计算机各个硬件</h3><p><img src="../images/nono/1636102659877.png" alt="1636102659877"></p>
+ <span id="more"></span>  
+
+<h5 id="主存储器基本组成"><a href="#主存储器基本组成" class="headerlink" title="主存储器基本组成"></a><strong>主存储器</strong>基本组成</h5><p><img src="../images/nono/1636101709073.png" alt="1636101709073"></p>
+<p><img src="../images/nono/1636101766899.png" alt="1636101766899"></p>
+<h5 id="运算器基本组成"><a href="#运算器基本组成" class="headerlink" title="运算器基本组成"></a><strong>运算器</strong>基本组成</h5><p><img src="../images/nono/1636101859633.png" alt="1636101859633"></p>
+<h5 id="控制器基本组成"><a href="#控制器基本组成" class="headerlink" title="控制器基本组成"></a><strong>控制器</strong>基本组成</h5><p><img src="../images/nono/1636101908241.png" alt="1636101908241"></p>
+<h3 id="计算机工作过程"><a href="#计算机工作过程" class="headerlink" title="计算机工作过程"></a>计算机工作过程</h3><p><img src="../images/nono/1636102949063.png" alt="1636102949063"></p>
+<h5 id="取数"><a href="#取数" class="headerlink" title="取数"></a>取数</h5><p><img src="../images/nono/1636102996472.png" alt="1636102996472"></p>
+<h5 id="乘法"><a href="#乘法" class="headerlink" title="乘法"></a>乘法</h5><p><img src="../images/nono/1636103033863.png" alt="1636103033863"></p>
+<h5 id="加法"><a href="#加法" class="headerlink" title="加法"></a>加法</h5><p><img src="../images/nono/1636103066885.png" alt="1636103066885"></p>
+<h5 id="存数"><a href="#存数" class="headerlink" title="存数"></a>存数</h5><p><img src="../images/nono/1636103089638.png" alt="1636103089638"></p>
+<h5 id="停机"><a href="#停机" class="headerlink" title="停机"></a>停机</h5><p><img src="../images/nono/1636103119200.png" alt="1636103119200"></p>
+<h5 id="总结："><a href="#总结：" class="headerlink" title="总结："></a><strong>总结：</strong></h5><p><img src="../images/nono/1636103332083.png" alt="1636103332083"></p>
+<p><img src="../images/nono/1636103300140.png" alt="1636103300140"></p>
 ]]></content>
       <categories>
         <category>Test</category>
       </categories>
       <tags>
-        <tag>nuooun</tag>
+        <tag>计算机组成原理</tag>
       </tags>
   </entry>
   <entry>
