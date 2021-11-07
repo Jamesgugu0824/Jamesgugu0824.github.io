@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>计算机组成原理（1）</title>
+    <title>计算机组成原理-1</title>
     <url>/nono.html</url>
     <content><![CDATA[<h3 id="计算机各个硬件"><a href="#计算机各个硬件" class="headerlink" title="计算机各个硬件"></a>计算机各个硬件</h3><p><img src="../images/nono/1636102659877.png" alt="1636102659877"></p>
  <span id="more"></span>  
@@ -24,7 +24,29 @@
 <h3 id="计算机性能指标"><a href="#计算机性能指标" class="headerlink" title="计算机性能指标"></a>计算机性能指标</h3><p><img src="../images/nono/1636169651377.png" alt="1636169651377"></p>
 ]]></content>
       <categories>
-        <category>Com</category>
+        <category>计算机组成原理</category>
+      </categories>
+      <tags>
+        <tag>计算机组成原理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算机组成原理-2</title>
+    <url>/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2.html</url>
+    <content><![CDATA[<h3 id="IEEE-754"><a href="#IEEE-754" class="headerlink" title="IEEE 754"></a>IEEE 754</h3><p><img src="../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2/1636280307446.png" alt="1636280307446"></p>
+<span id="more"></span>  
+
+<hr>
+<h3 id="浮点数运算"><a href="#浮点数运算" class="headerlink" title="浮点数运算"></a>浮点数运算</h3><figure class="highlight"><table><tr><td class="code"><pre><span class="line">类比 科学记数法</span><br></pre></td></tr></table></figure>
+
+<p><img src="../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2/1636289383379.png" alt="1636289383379"></p>
+<p><img src="../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2/1636290471433.png" alt="1636290471433"></p>
+<p><img src="../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2/1636291207815.png" alt="1636291207815"></p>
+<h3 id="强制类型转换"><a href="#强制类型转换" class="headerlink" title="强制类型转换"></a>强制类型转换</h3><p><img src="../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2/1636291246140.png" alt="1636291246140"></p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p><img src="../images/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-2/1636291175349.png" alt="1636291175349"></p>
+]]></content>
+      <categories>
+        <category>计算机组成原理</category>
       </categories>
       <tags>
         <tag>计算机组成原理</tag>
