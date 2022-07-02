@@ -15,17 +15,17 @@
 <meta property="og:site_name" content="Jie的博客">
 <meta property="og:description" content="问题：hexo douban爬不到数据的问题hexo douban 运行结束之后，结果如下：">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="http://nuooun.top/images/1633774021348.png">
-<meta property="og:image" content="http://nuooun.top/images/1633775472152.png">
-<meta property="og:image" content="http://nuooun.top/images/1633775739276.png">
+<meta property="og:image" content="http://nuooun.top/images/hexodouban/1633774021348.png">
+<meta property="og:image" content="http://nuooun.top/images/hexodouban/1633775472152.png">
+<meta property="og:image" content="http://nuooun.top/images/hexodouban/1633775739276.png">
 <meta property="og:image" content="http://nuooun.top/images/hexodouban/1633785852746.png">
 <meta property="article:published_time" content="2021-10-09T04:39:27.000Z">
-<meta property="article:modified_time" content="2022-07-02T11:28:32.801Z">
+<meta property="article:modified_time" content="2022-07-02T11:37:40.734Z">
 <meta property="article:author" content="chenjie">
 <meta property="article:tag" content="hexo">
 <meta property="article:tag" content="douban">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://nuooun.top/images/1633774021348.png">
+<meta name="twitter:image" content="http://nuooun.top/images/hexodouban/1633774021348.png">
   
     <link rel="alternative" href="/atom.xml" title="Jie的博客" type="application/atom+xml">
   
@@ -176,19 +176,20 @@
     <div class="article-entry" itemprop="articleBody">
       
         <h3 id="问题：hexo-douban爬不到数据的问题"><a href="#问题：hexo-douban爬不到数据的问题" class="headerlink" title="问题：hexo douban爬不到数据的问题"></a>问题：hexo douban爬不到数据的问题</h3><p>hexo douban 运行结束之后，结果如下：</p>
-<p><img src="/images/1633774021348.png" alt="1633774021348"></p>
+<p><img src="/images/hexodouban/1633774021348.png" alt="1633774021348"></p>
  <span id="more"></span> 
 
 <h3 id="原因："><a href="#原因：" class="headerlink" title="原因："></a>原因：</h3><p>当前使用的node版本太高了，降低node版本即可 </p>
 <h3 id="解决方法："><a href="#解决方法：" class="headerlink" title="解决方法："></a>解决方法：</h3><p>首先卸载目前这个版本的node， 然后重新去<a target="_blank" rel="noopener" href="https://nodejs.org/en/download/">官网</a>，找到<a target="_blank" rel="noopener" href="https://nodejs.org/dist/latest-v12.x/">版本12下载</a>即可，我之前是14.16  下载12.22.6</p>
 <p>下载的时候选择msi，下载完直接安装就可以用。</p>
-<p><img src="/images/1633775472152.png" alt="1633775472152"></p>
+<p><img src="/images/hexodouban/1633775472152.png" alt="1633775472152"></p>
 <p><strong>注意：安装时最好在你原来nodejs的安装目录，这样环境变量也不用重新配了</strong> </p>
 <p> 然后执行hexo clean  再 hexo douban   </p>
 <p>然后 hexo generate  再 hexo server  就完成了！</p>
-<p><img src="/images/1633775739276.png"></p>
+<p><img src="/images/hexodouban/1633775739276.png"></p>
 <blockquote>
 <h5 id="Hexo中图片不显示的解决方案："><a href="#Hexo中图片不显示的解决方案：" class="headerlink" title="Hexo中图片不显示的解决方案："></a>Hexo中图片不显示的解决方案：</h5><p><img src="/images/hexodouban/1633785852746.png" alt="1633785852746"></p>
+<hr>
 <p><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_45342841/article/details/105620322">解决Typora图片显示不出来问题</a></p>
 <p><a target="_blank" rel="noopener" href="https://www.cnblogs.com/yinyoupoet/p/13287385.html">typora + hexo博客中插入图片</a></p>
 </blockquote>
