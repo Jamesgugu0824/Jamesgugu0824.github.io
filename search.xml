@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>计算机组成原理-2</title>
+    <url>/nono-2.html</url>
+    <content><![CDATA[<h3 id="IEEE-754"><a href="#IEEE-754" class="headerlink" title="IEEE 754"></a>IEEE 754</h3><p><img src="../images/nono-2/1636280307446.png" alt="IEEE 754"></p>
+<span id="more"></span>  
+
+<hr>
+<h3 id="浮点数运算"><a href="#浮点数运算" class="headerlink" title="浮点数运算"></a>浮点数运算</h3><figure class="highlight"><table><tr><td class="code"><pre><span class="line">类比 科学记数法</span><br></pre></td></tr></table></figure>
+
+<p><img src="../images/nono-2/1636289383379.png" alt="浮点数额加减运算"></p>
+<p><img src="../images/nono-2/1636291207815.png" alt="浮点数额加减运算"></p>
+<p><img src="../images/nono-2/1636291246140.png" alt="强制类型转换"></p>
+<p><img src="../images/nono-2/1636291175349.png" alt="总结"></p>
+<hr>
+<h3 id="电路基本原理、加法器设计"><a href="#电路基本原理、加法器设计" class="headerlink" title="电路基本原理、加法器设计"></a>电路基本原理、加法器设计</h3><p><img src="../images/nono-2/1636357839875.png" alt="算术逻辑单元ALU"></p>
+<p><img src="../images/nono-2/1636357891766.png" alt="一位全加器"></p>
+<p><img src="../images/nono-2/1636357991021.png" alt="串行加法器"></p>
+<p><img src="../images/nono-2/1636358093986.png" alt="串行进位的并行加法器"></p>
+<p><img src="../images/nono-2/1636357788471.png" alt="总结"></p>
+<hr>
+<h3 id="微程序、微指令"><a href="#微程序、微指令" class="headerlink" title="微程序、微指令"></a>微程序、微指令</h3><p><img src="../images/nono-2/1637161906065.png" alt="微程序控制器"></p>
+<p><img src="../images/nono-2/1637162381706.png" alt="微指令格式"></p>
+<p><img src="../images/nono-2/1637163310767.png" alt="下地址字段法-例题"></p>
+<p><img src="../images/nono-2/1637163420967.png" alt="微指令的设计"></p>
+<p><img src="../images/nono-2/1637163738786.png" alt="微程序控制单元的设计"></p>
+<p><img src="../images/nono-2/1637164199876.png" alt="硬布线与微程序的比较"></p>
+<p><img src="../images/nono-2/1637164296090.png" alt="微程序控制器"></p>
+]]></content>
+      <tags>
+        <tag>计算机组成原理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>true</title>
     <url>/funnyweb.html</url>
     <content><![CDATA[<blockquote>
@@ -25,6 +57,33 @@
 ]]></content>
       <tags>
         <tag>It&#39;s True</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计算机组成原理-1</title>
+    <url>/nono.html</url>
+    <content><![CDATA[<h3 id="计算机各个硬件"><a href="#计算机各个硬件" class="headerlink" title="计算机各个硬件"></a>计算机各个硬件</h3><p><img src="../images/nono/1636102659877.png" alt="1636102659877"></p>
+ <span id="more"></span>  
+
+<h5 id="主存储器基本组成"><a href="#主存储器基本组成" class="headerlink" title="主存储器基本组成"></a><strong>主存储器</strong>基本组成</h5><p><img src="../images/nono/1636101709073.png" alt="1636101709073"></p>
+<p><img src="../images/nono/1636101766899.png" alt="1636101766899"></p>
+<h5 id="运算器基本组成"><a href="#运算器基本组成" class="headerlink" title="运算器基本组成"></a><strong>运算器</strong>基本组成</h5><p><img src="../images/nono/1636101859633.png" alt="1636101859633"></p>
+<h5 id="控制器基本组成"><a href="#控制器基本组成" class="headerlink" title="控制器基本组成"></a><strong>控制器</strong>基本组成</h5><p><img src="../images/nono/1636101908241.png" alt="1636101908241"></p>
+<h3 id="计算机工作过程"><a href="#计算机工作过程" class="headerlink" title="计算机工作过程"></a>计算机工作过程</h3><p><img src="../images/nono/1636102949063.png" alt="1636102949063"></p>
+<h5 id="取数"><a href="#取数" class="headerlink" title="取数"></a>取数</h5><p><img src="../images/nono/1636102996472.png" alt="1636102996472"></p>
+<h5 id="乘法"><a href="#乘法" class="headerlink" title="乘法"></a>乘法</h5><p><img src="../images/nono/1636103033863.png" alt="1636103033863"></p>
+<h5 id="加法"><a href="#加法" class="headerlink" title="加法"></a>加法</h5><p><img src="../images/nono/1636103066885.png" alt="1636103066885"></p>
+<h5 id="存数"><a href="#存数" class="headerlink" title="存数"></a>存数</h5><p><img src="../images/nono/1636103089638.png" alt="1636103089638"></p>
+<h5 id="停机"><a href="#停机" class="headerlink" title="停机"></a>停机</h5><p><img src="../images/nono/1636103119200.png" alt="1636103119200"></p>
+<h5 id="总结："><a href="#总结：" class="headerlink" title="总结："></a><strong>总结：</strong></h5><p><img src="../images/nono/1636103332083.png" alt="1636103332083"></p>
+<p><img src="../images/nono/1636103300140.png" alt="1636103300140"></p>
+<hr>
+<h3 id="计算机系统的层次结构"><a href="#计算机系统的层次结构" class="headerlink" title="计算机系统的层次结构"></a>计算机系统的层次结构</h3><p><img src="../images/nono/1636169543661.png" alt="1636169543661"></p>
+<hr>
+<h3 id="计算机性能指标"><a href="#计算机性能指标" class="headerlink" title="计算机性能指标"></a>计算机性能指标</h3><p><img src="../images/nono/1636169651377.png" alt="1636169651377"></p>
+]]></content>
+      <tags>
+        <tag>计算机组成原理</tag>
       </tags>
   </entry>
   <entry>
@@ -73,64 +132,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>计算机组成原理-2</title>
-    <url>/nono-2.html</url>
-    <content><![CDATA[<h3 id="IEEE-754"><a href="#IEEE-754" class="headerlink" title="IEEE 754"></a>IEEE 754</h3><p><img src="../images/nono-2/1636280307446.png" alt="IEEE 754"></p>
-<span id="more"></span>  
-
-<hr>
-<h3 id="浮点数运算"><a href="#浮点数运算" class="headerlink" title="浮点数运算"></a>浮点数运算</h3><figure class="highlight"><table><tr><td class="code"><pre><span class="line">类比 科学记数法</span><br></pre></td></tr></table></figure>
-
-<p><img src="../images/nono-2/1636289383379.png" alt="浮点数额加减运算"></p>
-<p><img src="../images/nono-2/1636291207815.png" alt="浮点数额加减运算"></p>
-<p><img src="../images/nono-2/1636291246140.png" alt="强制类型转换"></p>
-<p><img src="../images/nono-2/1636291175349.png" alt="总结"></p>
-<hr>
-<h3 id="电路基本原理、加法器设计"><a href="#电路基本原理、加法器设计" class="headerlink" title="电路基本原理、加法器设计"></a>电路基本原理、加法器设计</h3><p><img src="../images/nono-2/1636357839875.png" alt="算术逻辑单元ALU"></p>
-<p><img src="../images/nono-2/1636357891766.png" alt="一位全加器"></p>
-<p><img src="../images/nono-2/1636357991021.png" alt="串行加法器"></p>
-<p><img src="../images/nono-2/1636358093986.png" alt="串行进位的并行加法器"></p>
-<p><img src="../images/nono-2/1636357788471.png" alt="总结"></p>
-<hr>
-<h3 id="微程序、微指令"><a href="#微程序、微指令" class="headerlink" title="微程序、微指令"></a>微程序、微指令</h3><p><img src="../images/nono-2/1637161906065.png" alt="微程序控制器"></p>
-<p><img src="../images/nono-2/1637162381706.png" alt="微指令格式"></p>
-<p><img src="../images/nono-2/1637163310767.png" alt="下地址字段法-例题"></p>
-<p><img src="../images/nono-2/1637163420967.png" alt="微指令的设计"></p>
-<p><img src="../images/nono-2/1637163738786.png" alt="微程序控制单元的设计"></p>
-<p><img src="../images/nono-2/1637164199876.png" alt="硬布线与微程序的比较"></p>
-<p><img src="../images/nono-2/1637164296090.png" alt="微程序控制器"></p>
-]]></content>
-      <tags>
-        <tag>计算机组成原理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计算机组成原理-1</title>
-    <url>/nono.html</url>
-    <content><![CDATA[<h3 id="计算机各个硬件"><a href="#计算机各个硬件" class="headerlink" title="计算机各个硬件"></a>计算机各个硬件</h3><p><img src="../images/nono/1636102659877.png" alt="1636102659877"></p>
- <span id="more"></span>  
-
-<h5 id="主存储器基本组成"><a href="#主存储器基本组成" class="headerlink" title="主存储器基本组成"></a><strong>主存储器</strong>基本组成</h5><p><img src="../images/nono/1636101709073.png" alt="1636101709073"></p>
-<p><img src="../images/nono/1636101766899.png" alt="1636101766899"></p>
-<h5 id="运算器基本组成"><a href="#运算器基本组成" class="headerlink" title="运算器基本组成"></a><strong>运算器</strong>基本组成</h5><p><img src="../images/nono/1636101859633.png" alt="1636101859633"></p>
-<h5 id="控制器基本组成"><a href="#控制器基本组成" class="headerlink" title="控制器基本组成"></a><strong>控制器</strong>基本组成</h5><p><img src="../images/nono/1636101908241.png" alt="1636101908241"></p>
-<h3 id="计算机工作过程"><a href="#计算机工作过程" class="headerlink" title="计算机工作过程"></a>计算机工作过程</h3><p><img src="../images/nono/1636102949063.png" alt="1636102949063"></p>
-<h5 id="取数"><a href="#取数" class="headerlink" title="取数"></a>取数</h5><p><img src="../images/nono/1636102996472.png" alt="1636102996472"></p>
-<h5 id="乘法"><a href="#乘法" class="headerlink" title="乘法"></a>乘法</h5><p><img src="../images/nono/1636103033863.png" alt="1636103033863"></p>
-<h5 id="加法"><a href="#加法" class="headerlink" title="加法"></a>加法</h5><p><img src="../images/nono/1636103066885.png" alt="1636103066885"></p>
-<h5 id="存数"><a href="#存数" class="headerlink" title="存数"></a>存数</h5><p><img src="../images/nono/1636103089638.png" alt="1636103089638"></p>
-<h5 id="停机"><a href="#停机" class="headerlink" title="停机"></a>停机</h5><p><img src="../images/nono/1636103119200.png" alt="1636103119200"></p>
-<h5 id="总结："><a href="#总结：" class="headerlink" title="总结："></a><strong>总结：</strong></h5><p><img src="../images/nono/1636103332083.png" alt="1636103332083"></p>
-<p><img src="../images/nono/1636103300140.png" alt="1636103300140"></p>
-<hr>
-<h3 id="计算机系统的层次结构"><a href="#计算机系统的层次结构" class="headerlink" title="计算机系统的层次结构"></a>计算机系统的层次结构</h3><p><img src="../images/nono/1636169543661.png" alt="1636169543661"></p>
-<hr>
-<h3 id="计算机性能指标"><a href="#计算机性能指标" class="headerlink" title="计算机性能指标"></a>计算机性能指标</h3><p><img src="../images/nono/1636169651377.png" alt="1636169651377"></p>
-]]></content>
-      <tags>
-        <tag>计算机组成原理</tag>
-      </tags>
   </entry>
 </search>
